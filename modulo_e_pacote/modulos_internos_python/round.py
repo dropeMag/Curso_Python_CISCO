@@ -1,8 +1,0 @@
-print(round(1.1))
-print(round(1.999))
-print(round(2.51))
-print(round(2.5))
-print(round(3.5))
-print(round(3.555, 1))
-print(round(3.555, 2))
-print(round(2.675, 2))

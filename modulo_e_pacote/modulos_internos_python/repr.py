@@ -1,5 +1,0 @@
-print(2.0/11.0)
-print(str(2.0/11.0))
-print(repr(2.0/11.0))
-print(repr(str(2.0/11.0)))
-print(repr('Hello, World!'))
