@@ -1,0 +1,6 @@
+print('te5te'.islower())
+print('teSte'.islower())
+print(' \n '.isspace())
+print(' n '.isspace())
+print('OP4'.isupper())
+print('OpA'.isupper())
