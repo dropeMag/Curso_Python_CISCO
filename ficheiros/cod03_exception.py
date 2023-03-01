@@ -1,4 +1,5 @@
 try:
     open('naoExiste', mode='r', encoding=None)
-except BaseException as exc:
+except IOError as exc:
     print(exc)
+    print(exc.errno)
