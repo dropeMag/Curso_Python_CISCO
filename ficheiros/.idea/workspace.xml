@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d744ab67-ad21-4b2d-a86d-7ab5d74e321d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cod04_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cod05_readline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cod06_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex_01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cod03_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/cod03_exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/teste.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/OneDrive/Documentos/PYTHON/GITTED/hungergames2&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pedro/OneDrive/Documentos/PYTHON/GITTED/CISCO_PCAP_improvement/ficheiros/exercicios&quot;
   }
 }</component>
   <component name="RunManager">
