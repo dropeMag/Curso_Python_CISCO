@@ -31,6 +31,10 @@ Neste repositório encontrará anotações, atividades e projetos desenvolvidos 
 
 <img src='https://user-images.githubusercontent.com/107576199/214470088-94748e08-0460-4d54-aaaf-2de8046d2fa4.png' width='800px'>
 
+## Finalização do Curso
+
+O curso foi finalizado por mim no dia 09/03/2023.
+
 ## Agradecimentos
 
 Minha gratidão à [Cisco Networking Academy](https://www.netacad.com/) e ao [SENAI](https://www.sistemafibra.org.br/senai/) por oferecerem um curso com tanta qualidade e importância!
